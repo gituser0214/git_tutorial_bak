@@ -11,6 +11,10 @@ pubulic class work01() {
   }
 
   private int gitDiff() {
+
+  }
+
+  private void gitRecet(){
     
   }
 
