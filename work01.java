@@ -10,4 +10,8 @@ pubulic class work01() {
     return "ID01"
   }
 
+  private int gitDiff() {
+    
+  }
+
 }
