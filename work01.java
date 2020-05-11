@@ -13,5 +13,8 @@ pubulic class work01() {
   private int gitDiff() {
     
   }
+  
+  privavte void gitMerge(){
+  }
 
 }
