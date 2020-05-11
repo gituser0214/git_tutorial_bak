@@ -17,5 +17,8 @@ pubulic class work01() {
   private void gitRecet(){
     
   }
+  
+  privavte void gitMerge(){
+  }
 
 }
